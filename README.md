@@ -1,3 +1,5 @@
+# NOTE: All development of d3-emscripten has moved to Empirical (https://github.com/devosoft/Empirical), which contains a variety of other handy tools for using emscripten.
+
 # d3-emscripten
 This repository contains the begginnings of a an emscripten wrapper for d3.js. Once it's done, it will let the user write code from C++ to create javascript visualizations in d3.js.
 
